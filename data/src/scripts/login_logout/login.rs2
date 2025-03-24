@@ -1,5 +1,5 @@
 [login,_]
-mes("Welcome to RuneScape.");
+mes("Welcome to picklescape.");
 cam_reset;
 
 %music_mode = 1; // set to auto on login
